@@ -3,7 +3,7 @@ This is a Repository of R Resources to assess taxonomic clustering in a phylogen
 I include here the R project file and the R script in a form of an .Rmd file, along with an R Markdown HTML file.
 
 You can find the .html file if you follow this: 
-[LINK](https://github.com/kanellopal/Sum-of-sister-clade-differences/blob/main/Sum_of_sister_clade_differences.html)
+[LINK](https://kanellopal.github.io/Sum-of-sister-clade-differences/Sum_of_sister_clade_differences.html)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DISCLAIMER.**
